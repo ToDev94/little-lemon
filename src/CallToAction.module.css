@@ -1,0 +1,11 @@
+.CTA {
+  background-color: #495e49;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap-reverse;
+}
+
+.container {
+  min-width: 750px;
+}

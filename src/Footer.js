@@ -1,8 +1,9 @@
 import React from "react";
+import classes from "./footer.module.css";
 
 const Footer = () => {
   return (
-    <footer>
+    <footer className={classes.footer}>
       <img
         src="./restauranfood.jpg"
         alt="restaurant"

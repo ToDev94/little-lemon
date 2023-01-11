@@ -1,0 +1,8 @@
+.footer {
+  max-width: 1440px;
+  justify-content: center;
+  margin: auto;
+  flex-wrap: wrap;
+  display: flex;
+  gap: 4rem;
+}
